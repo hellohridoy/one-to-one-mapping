@@ -8,6 +8,8 @@ public class OnetooneApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(OnetooneApplication.class, args);
+
+        System.out.println("Hello");
     }
 
 }
